@@ -1,7 +1,9 @@
 # hello-spring
 Spring Application
 
-* Please refer to https://dzone.com/articles/vagrant but alter the following steps and values
+This is for quickly deploying Web Application Using Vagrant. I've made some modifications to use a newer version of Ubuntu and java.
+
+* Please refer to the original article https://dzone.com/articles/vagrant 
 * Replace content of Vagrant file with https://github.com/wsaikliang/hello-spring/blob/master/Vagrantfile
 * Replace content of vagrant_provision.sh with https://github.com/wsaikliang/hello-spring/blob/master/vagrant_provision.sh
 * Follow the instruction until "cd etc/default"
