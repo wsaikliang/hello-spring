@@ -15,7 +15,6 @@ Authentication is required to restart 'tomcat7.service'.
 Authenticating as: Ubuntu (ubuntu)
 Password: 
 
-* password can be found under 
-/Users/wittawat/.vagrant.d/boxes/ubuntu-VAGRANTSLASH-xenial64/20170830.1.1/virtualbox/Vagrantfile
-(https://askubuntu.com/questions/832137/ubuntu-xenial64-box-password)
+* cat /Users/wittawat/.vagrant.d/boxes/ubuntu-VAGRANTSLASH-xenial64/20170830.1.1/virtualbox/Vagrantfile
+to get the pwd (https://askubuntu.com/questions/832137/ubuntu-xenial64-box-password)
 * The final URL is http://192.168.33.10:8080/hello-spring/
